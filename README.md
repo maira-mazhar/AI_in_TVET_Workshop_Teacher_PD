@@ -54,7 +54,7 @@ By the end of this workshop, participants will be able to:
 - Continuous professional development for teachers
 
 ```markdown
-![AI in TVET](ai-tvet.jpg)
+![AI in TVET](media/ai_tvet.png)
 ```
 
 ---
