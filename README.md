@@ -1,176 +1,131 @@
-# AI in TVET: Professional Development for TVET Teachers
+<!--
+author:   Maira Mazhar Bhatti
+email:    maira.bhatti@st.ovgu.de
+version:  4.0.0
+language: en
+narrator: US English Female
 
-> **Workshop Duration:** 20 minutes (+ Q&A)  
-> **Target Group:** TVET Teachers  
-> **Format:** Interactive Workshop using **LiaScript** and **GitHub**
+logo:     https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/AI_icon.svg/120px-AI_icon.svg.png
+theme:    dark
 
----
+comment:  A detailed, student-led workshop for TVET teachers focused on CGS-3.1: Motivating teachers to be agents of change and protagonists in the AI transformation.
+-->
 
-## 1. Workshop Overview
+# 🌟 TVET Teachers as Protagonists: Leading the AI Transformation
 
-Artificial Intelligence (AI) is rapidly transforming teaching and learning practices in Technical and Vocational Education and Training (TVET). This workshop introduces TVET teachers to practical AI tools and pedagogical strategies that can enhance lesson planning, student engagement, assessment, and continuous professional development.
-
-The workshop combines short explanations, real-world teaching scenarios, interactive activities, and reflective questions to ensure active participation and competency development.
-
----
-
-## 2. Learning Objectives (Bloom’s Taxonomy Aligned)
-
-By the end of this workshop, participants will be able to:
-
-- **Remember:** Define AI and identify common AI tools used in TVET education.
-- **Understand:** Explain how AI supports teaching, assessment, and professional development.
-- **Apply:** Use at least one AI tool to support lesson planning or assessment.
-- **Analyze:** Evaluate opportunities and challenges of using AI in TVET classrooms.
-- **Create:** Design a simple AI-supported teaching activity for their own subject.
+Welcome to our interactive workshop! We are the **TVET Teachers Group** from the "AI in TVET II" course. Our focus today is on **CGS-3.1**: Motivating you, the expert teachers, to become the **agents of change** and **protagonists** in the AI-driven transformation of vocational education.
 
 ---
 
-## 3. Workshop Structure (20 Minutes)
+## 1. Defining Our Role: Agents of Change
 
-### 3.1 Introduction (3 minutes)
+**(CGS-3.1 Focus: Motivate teachers to be agents of change)**
 
-- Welcome and brief self-introduction  
-- Icebreaker question (interactive):
+The introduction of AI is a pivotal moment. We are not passive observers; we are the experts who will shape how this technology is used in our classrooms and industries.
 
-```quiz
-- Have you ever used AI tools (e.g., ChatGPT, Copilot, Grammarly) in teaching?
-  - [ ] Yes, regularly
-  - [ ] Yes, sometimes
-  - [ ] No, never
+### 1.1 Learning Objectives (Protagonist Traits)
+
+| Protagonist Trait | Learning Goal | Success Measurement |
+| :--- | :--- | :--- |
+| **Visionary** | Participants will **analyze** the long-term impact of AI on their specific vocational trade. | Successful completion of the Section 2 Discussion Prompt. |
+| **Innovator** | Participants will **apply** AI tools to solve a complex, real-world pedagogical challenge. | Active participation in the Section 3 Simulation Exercise. |
+| **Leader** | Participants will **design** a strategy to mentor a colleague in adopting a new AI-enhanced teaching method. | Completion of the final Action Plan. |
+
+### 1.2 Didactical Elements: Nurturing Protagonists
+
+**(Workshop Design Requirement: Include didactical and methodological elements)**
+
+We will use:
+*   **Case Studies**: Highlighting expert teachers who have successfully integrated AI.
+*   **Simulating Examples**: Hands-on exercises to build confidence in AI application.
+*   **Discussion Prompts**: To foster a community of change agents.
+
+---
+
+## 2. Case Studies: Expert Teachers as Protagonists
+
+**(CGS-3.1 Focus: Organizing case studies on how expert teachers could become the protagonists)**
+
+The best way to become a protagonist is to learn from those who are already leading the way.
+
+### 2.1 Case Study: The Welding Instructor's AI Leap
+
+> **Scenario**: Maria, a veteran welding instructor, was initially skeptical of AI. She used to spend hours grading complex weld joint assessments. She decided to use an AI-powered image analysis tool to provide instant, objective feedback on student welds based on photos. This freed up 10 hours a week, which she now uses to mentor students on advanced, custom fabrication projects.
+>
+> **Protagonist Action**: Maria transformed a tedious task into a high-value mentoring opportunity, using AI to enhance, not replace, her expertise.
+
+### 2.2 Discussion Prompt: Your Protagonist Moment
+
+
+If you had 10 extra hours a week, freed up by AI automating a repetitive task, how would you use that time to become a better teacher and mentor?
+
+
+### 2.3 Multimedia: The Power of AI in Education
+
+Watch this video on how AI is fundamentally changing the role of the educator, empowering them to focus on human-centric skills.
+
+!?[AI and the Future of Teaching](https://www.youtube.com/watch?v=yASVkFnJwYg)
+
+---
+
+## 3. Simulation Exercise: Becoming the Innovator
+
+**(Simulating examples and interesting exercises)**
+
+This exercise is designed to simulate a real-world challenge and force you to innovate using AI.
+
+### 3.1 The Challenge: The Curriculum Gap
+
+> **Scenario**: A new industry standard was just released for your trade (e.g., new safety code, new software version). Your current curriculum is outdated. You have one hour to create a new module to cover this gap.
+
+### 3.2 The Simulation: AI-Driven Curriculum Design
+
+Use the following interactive prompt to simulate your innovative response:
+
+As the protagonist, your first step is to use AI to bridge the curriculum gap. Which action demonstrates the most effective use of AI as an agent of change?
+
+[( )] Ask AI to write a 50-question test on the new standard.
+[(x)] Use AI to analyze the new standard, extract key learning outcomes, and generate a draft of a new, competency-based module outline.
+[( )] Post a question on a teacher forum asking for help.
+[( )] Spend the hour manually searching for relevant articles.
+*******************************************************************************
+Correct! The protagonist uses AI to perform high-level analysis and strategic planning, leveraging the technology to accelerate the change process.
+*******************************************************************************
+
+---
+
+## 4. Final Action Plan: Leading the Change
+
+**(CGS-3.1 Focus: Nurturing the traits of being agents of change)**
+
+Your journey as an agent of change starts now.
+
+### 4.1 The Leadership Strategy
+
+**(Workshop Design Requirement: Provide success measurements)**
+
+| Action Step | Protagonist Trait Nurtured | Success Metric |
+| :--- | :--- | :--- |
+| **Explore** | Visionary | Identify and test one new AI tool relevant to your trade this week. |
+| **Implement** | Innovator | Integrate the AI tool into one lesson plan and document the outcome. |
+| **Mentor** | Leader | Share your successful AI integration with at least one colleague. |
+
+### 4.2 Action Plan Prompt
+
+```reflection
+What is the ONE specific AI-enhanced change you will lead in your classroom next month, and who is the first colleague you will mentor on this change?
 ```
 
 ---
 
-### 3.2 AI in TVET – Key Concepts (4 minutes)
+## Conclusion: The Future is in Your Hands
 
-#### What is AI?
-- Artificial Intelligence refers to systems that can perform tasks that usually require human intelligence.
+You are the experts, the innovators, and the leaders. The future of TVET is not happening *to* you; it is happening *because* of you. Embrace your role as the protagonist in this AI transformation.
 
-#### Why AI matters in TVET
-- Personalised learning
-- Faster feedback and assessment
-- Support for diverse learners
-- Continuous professional development for teachers
-
-```markdown
-![AI in TVET](media/ai_tvet.png)
-```
+Thank you for being agents of change!
 
 ---
 
-### 3.3 Practical AI Tools for TVET Teachers (5 minutes)
+## References
 
-#### Examples of AI Tools
-
-- **Lesson Planning:** ChatGPT, Copilot
-- **Assessment & Feedback:** AI quiz generators, automated rubrics
-- **Language Support:** Grammarly, DeepL
-- **Learning Analytics:** AI-supported LMS tools
-
-```video
-https://github.com/OVGU-VET-TechEd/AI-in-TVET/blob/main/media/Pitch%20for%20Group%201.mp4
-```
-
-**Reflection Question:**
-
-```quiz
-- Which area do you think AI can help you most?
-  - [ ] Lesson planning
-  - [ ] Student assessment
-  - [ ] Student engagement
-  - [ ] Professional development
-```
-
----
-
-### 3.4 Interactive Activity: AI in Action (5 minutes)
-
-**Scenario:**
-You are a TVET teacher preparing a practical lesson on workplace safety or machine operation.
-
-**Task:**
-- Use an AI tool (e.g., ChatGPT prompt) to:
-  - Generate learning outcomes
-  - Create 3 assessment questions
-
-```markdown
-**Sample Prompt:**
-"Create learning outcomes and 3 assessment questions for a TVET lesson on workplace safety."
-```
-
-**Discussion:**
-- How useful was the AI-generated content?
-- What would you change or improve?
-
----
-
-### 3.5 Challenges and Ethical Considerations (2 minutes)
-
-- Data privacy and GDPR
-- Bias and reliability of AI outputs
-- Teacher’s role vs AI support
-- Need for digital competencies
-
-```quiz
-- AI should replace teachers in TVET education.
-  - [ ] True
-  - [x] False
-```
-
----
-
-### 3.6 Assessment & Knowledge Check (1 minute)
-
-```quiz
-- One key benefit of AI in TVET is:
-  - [ ] Replacing teachers
-  - [x] Supporting personalised learning
-  - [ ] Eliminating assessment
-```
-
----
-
-## 4. Measuring Success
-
-- Participation in interactive quizzes
-- Completion of AI-based activity
-- Ability to explain one practical AI use case
-- Reflection on ethical considerations
-
----
-
-## 5. Conclusion & Takeaways (2 minutes)
-
-- AI is a **support tool**, not a replacement for teachers
-- TVET teachers must develop **AI literacy**
-- Small steps lead to meaningful integration
-
-> **Final Reflection:**
-> "How will you use AI in your next TVET lesson?"
-
----
-
-## 6. References & Resources
-
-- AI in TVET GitHub Repository  
-- LiaScript Introduction: https://github.com/OVGU-VET-TechEd/LiaScript_Introduction_Selflearn  
-- Course Platform: https://elearning.ovgu.de
-
----
-
-## 7. GitHub Repository Structure (Suggestion)
-
-```
-AI_in_TVET_Workshop_Teachers/
-├── README.md
-├── workshop.md
-├── media/
-│   ├── ai_tvet.png
-│   └── intro_video.mp4
-```
-
----
-
-**End of Workshop – Thank You!**
-
+[1] [AI and the Future of Teaching](https://www.youtube.com/watch?v=yASVkFnJwYg)
