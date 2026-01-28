@@ -18,6 +18,8 @@ icon: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Medical_Imaging_
 
 **Training Mode:** Interactive Workshop (LiaScript + Collaborative Discussion)
 
+**Presented By:** Maira Mazhar Bhatti
+
 ---
 
 ## Training Purpose & Alignment
